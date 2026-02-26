@@ -7,7 +7,7 @@
 
 A basic landing page
 
-**🌐 [Live Preview]()**
+**🌐 [Live Preview](https://fumobern.github.io/odin-landing-page/)**
 </div>
 
 ## Goal
