@@ -17,7 +17,7 @@ Demonstrates core Flexbox layout skills, including:
 - **📦 Container Architecture** | Organizing parent containers and child items effectively.
 - **↔️ Axis Management** | Mastering flex-direction and alignment on both Main and Cross axes.
 - **⚖️ Content Dynamics** | Managing item behavior using `flex-grow`, `flex-shrink`, and `flex-basis`.
-- **📏 Consistent Spacing** | Utilizing the `gap` property for clean, consistent gutter management.
+- **📏 Consistent Spacing** | Utilizing the `gap`, `justify-content` and `align-items` properties for clean, consistent gutter management.
 
 ---
 
